@@ -1,0 +1,4 @@
+{
+  "name": "Double Spend Visualizer",
+  "description": "A real-time simulation of a blockchain double-spending attack using Poisson processes to model block discovery."
+}
